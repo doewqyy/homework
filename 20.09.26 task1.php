@@ -1,9 +1,6 @@
 <?php
 $languages = ['PHP', 'JavaScript', 'Python'];
-
-echo $languages[1]; 
-
-echo "\n"; // Перенос строки для аккуратного вывода
-
+  echo $languages[1]; 
+  echo "\n";
 print_r($languages);
 ?>
